@@ -1,0 +1,76 @@
+.card{
+height: 570px;
+margin-bottom: 100px;
+
+}
+
+
+.cards{
+    height: 200px;
+    width: 420px;
+    margin-left: 400px;
+    
+}
+.cards-pad{
+    height: 245px;
+    width: 348px;
+}
+
+.noticia-baixo{
+    width: 350px;
+    height: 240px; 
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.noticia-baixo-office{
+    width: 350px;     
+    height: 220px;
+    margin-left: 100px;
+}
+.espaco-noticias{
+    margin-top: 100px;
+
+}
+
+.titulo{
+    margin-top: 80px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.sub{
+    font-size: 23px;
+}
+
+.img-materia{
+    height: 400px;
+    width: 700px;
+    margin-left: 200px;
+}
+
+.img-materia-atriz{
+    height: 500px;
+    width: 700px;
+    margin-left: 200px;
+}
+
+.img-materia-bacu{
+    height: 380px;
+    width: 590px;
+    margin-left: 200px;
+}
+
+.img-materia-cantor{
+    height: 480px;
+    width: 400px;
+    margin-left: 300px;
+}
+
+
+.materia{
+    margin-top: 100px;
+    text-align: justify;
+    font-size: 20px;
+
+}
